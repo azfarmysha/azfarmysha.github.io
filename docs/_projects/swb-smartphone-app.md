@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Project 6
-description: another project
+title: Industrial Weighing App (Smartphone)
+description: Opened new user segment by moving weight tracking to smartphones.
 ---
-
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
 
 H1 Header
