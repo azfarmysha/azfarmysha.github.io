@@ -3,7 +3,6 @@ layout: post
 title: "Developing a Technical Solution for a Non-Technical Business"
 ---
 
-### Preface
 As a Product Owner of Shamuk Weighing System Bangladesh (SWB), tasked with creating a multi-platform Desktop and Smartphone app for our non-technical industrial clients, I embarked on a transformative journey. Our goal was clear: revolutionize operations, meeting client’s needs and elevate customer experiences through the development of a tailored technical solution in a desktop and mobile app. Here's how I turned aspirations into reality, reshaping Shamuk Weighing System’s business landscape in the process.
 
 ### Identifying the Opportunity
