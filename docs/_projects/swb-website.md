@@ -7,12 +7,12 @@ description: Established online presence by launching the website.
 
 ## Scope
 
-Samuk Weighing System Bangladesh, a heavy-industry machinery importer and manufacturer company, where I am currently working as a PO, needed a website to mark their online presence and connect with the clients worldwide.
+At Samuk Weighing System Bangladesh, a heavy-industry machinery importer and manufacturer where I currently serve as a Product Owner, there was a pressing need for a website/landing page to establish an online presence and engage with clients worldwide.
 
 
 ## My Contribution
 
-My initial task as a PO was to clip-out the unnecessary features and design something modern in the place of it while making sure it is user friendly.
+As a Product Owner, my initial task was to identify user needs of the company. I then led efforts to create the design with the designing team while ensuring it remained user-friendly.
 
 
 ## Links & Screengrabs

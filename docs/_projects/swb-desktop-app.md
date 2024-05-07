@@ -6,12 +6,12 @@ description: Revamped an outdated desktop application to modern standards.
 
 ## Scope
 
-Samuk Weighing System Bangladesh, a heavy-industry machinery importer and manufacturer company, where I am currently working as a PO, needed a website to mark their online presence and connect with the clients worldwide.
+Samuk Weighing System Bangladesh, a heavy-industry machinery importer and manufacturer company, relied solely on their website for clients to access their 'Freight Weighing Measurement' feature. The company lacked an application designed solely for their weighing system. As a Product Owner, I undertook the initiative to address this gap recognizing the need to expand their accessibility.
 
 
 ## My Contribution
 
-My initial task as a PO was to clip-out the unnecessary features and design something modern in the place of it while making sure it is user friendly.
+Designing an app for our clients posed unique challenges, particularly concerning language implementation and user interface design. As a Product Owner, I orchestrated extensive discussions with our UX/UI designers to pinpoint essential features and ensure the app's modernity and comprehensibility. Our collaborative efforts were dedicated to crafting an intuitive and user-friendly interface tailored to meet the diverse needs of our global clientele.
 
 
 ## Screengrabs
