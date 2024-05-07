@@ -14,10 +14,13 @@ I helped Samuk Weighing System Bangladesh, a heavy-industry machinery importer a
 As a Product Owner, I spearheaded the initiative to assist Samuk Weighing System Bangladesh, a prominent importer and manufacturer of heavy-industry machinery, in launching a Smartphone App aligned with their website. Through comprehensive market research and stakeholder consultations, I identified the specific needs and preferences of Samuk's target audience. Collaborating closely with the development team, I translated these insights into actionable requirements and user stories, ensuring that the app would effectively showcase Samuk's products and services while providing a seamless user experience. Throughout the development process, I facilitated regular feedback sessions and iterations to refine the app's features and functionality, prioritizing usability and performance. The successful launch of the Smartphone App not only enhanced Samuk's online presence but also reinforced its commitment to innovation and customer satisfaction in the digital age.
 
 
-## Links & Screengrabs
+## Screengrabs
 
-Website: [samukweighingbd.com](https://www.samukweighingbd.com/)
+![Screenshot](/assets/images/project-smartphone-sc1.png)
 
-![Screenshot](/assets/images/project-website-sc1.jpg)
+
+## Disclaimer
+
+The app is currently in closed Beta.
 
 
