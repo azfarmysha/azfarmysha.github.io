@@ -3,19 +3,13 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: profile.png
+  image: profile.jpg
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+I'm Mysha Azfar, an adept Product Owner with 2.5 years of experience in website development for industrial scale businesses. At Shamuk Weighing System Bangladesh (SWB), I led the strategic direction of our hybrid desktop / mobile app and website, specializing in the modernization of freight-weighing in Bangladesh. By deeply understanding market needs, I orchestrated the launch of our promising website and our de-facto standard application, solidifying our company's position in the cut-throat market of the business.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+My agile leadership helped to style facilitated seamless collaboration with cross-functional teams, ensuring our applications aligned with organizational goals and customer expectations. I've driven continuous improvement and business growth through our online presence and functional software products ever since.
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+My passion lies in driving innovation and exceeding customer satisfaction digitally. I thrive on challenges and am committed to pushing the boundaries of what's possible in software development across diverse industries. With a proven track record of success, I'm willing to leverage my expertise to explore opportunities beyond industrial scales, steering our website toward future advancements that deliver meaningful impact across various business sectors.
 
-PS: If you liked the theme, do star it on GitHub!
-
-### Also, check out:
-
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
