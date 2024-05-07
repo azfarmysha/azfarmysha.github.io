@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-I'm Mysha Azfar, an adept Product Owner with 2.5 years of experience in website development for industrial scale businesses. At Shamuk Weighing System Bangladesh (SWB), I led the strategic direction of our hybrid desktop / mobile app and website, specializing in the modernization of freight-weighing in Bangladesh. By deeply understanding market needs, I orchestrated the launch of our promising website and our de-facto standard application, solidifying our company's position in the cut-throat market of the business.
+I'm Mysha Azfar, an adept Product Owner with 2.5 years of experience in website development for industrial scale businesses. At Samuk Weighing System Bangladesh (SWB), I led the strategic direction of our hybrid desktop / mobile app and website, specializing in the modernization of freight-weighing in Bangladesh. By deeply understanding market needs, I orchestrated the launch of our promising website and our de-facto standard application, solidifying our company's position in the cut-throat market of the business.
 
 My agile leadership helped to style facilitated seamless collaboration with cross-functional teams, ensuring our applications aligned with organizational goals and customer expectations. I've driven continuous improvement and business growth through our online presence and functional software products ever since.
 

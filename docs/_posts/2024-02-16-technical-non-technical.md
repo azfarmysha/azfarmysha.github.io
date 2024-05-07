@@ -3,10 +3,10 @@ layout: post
 title: "Developing a Technical Solution for a Non-Technical Business"
 ---
 
-As a Product Owner of Shamuk Weighing System Bangladesh (SWB), tasked with creating a multi-platform Desktop and Smartphone app for our non-technical industrial clients, I embarked on a transformative journey. Our goal was clear: revolutionize operations, meeting client’s needs and elevate customer experiences through the development of a tailored technical solution in a desktop and mobile app. Here's how I turned aspirations into reality, reshaping Shamuk Weighing System’s business landscape in the process.
+As a Product Owner of Samuk Weighing System Bangladesh (SWB), tasked with creating a multi-platform Desktop and Smartphone app for our non-technical industrial clients, I embarked on a transformative journey. Our goal was clear: revolutionize operations, meeting client’s needs and elevate customer experiences through the development of a tailored technical solution in a desktop and mobile app. Here's how I turned aspirations into reality, reshaping Samuk Weighing System’s business landscape in the process.
 
 ### Identifying the Opportunity
-In the dynamic world of Shamuk’s business of importing, supplying, manufacturing and assembling weighing machines, attention to detail is a necessity. Recognizing the inefficiencies of our manual weight tracking  system, I saw an opportunity to drive change. Our (then) outdated processes led to errors, delays, and missed opportunities. It was evident that a technical solution was needed to streamline operations and unlock growth potential.
+In the dynamic world of Samuk’s business of importing, supplying, manufacturing and assembling weighing machines, attention to detail is a necessity. Recognizing the inefficiencies of our manual weight tracking  system, I saw an opportunity to drive change. Our (then) outdated processes led to errors, delays, and missed opportunities. It was evident that a technical solution was needed to streamline operations and unlock growth potential.
 
 ![Screenshot](/assets/images/project-desktop-sc2.png)
 
